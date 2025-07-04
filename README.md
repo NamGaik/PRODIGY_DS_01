@@ -4,7 +4,6 @@ This project visualizes the distribution of a categorical or continuous variable
 
 📁 Dataset Used
 The dataset used is: healthcare-dataset-stroke-data.csv
-Source Link: 
 
 It contains information about individuals such as:
 Age, Gender, Work Type, Residence Type, Smoking Status, Stroke history, Other health-related attributes
