@@ -1,7 +1,6 @@
 📊 Population Distribution Visualization
 This project visualizes the distribution of a categorical or continuous variable from a healthcare dataset. Specifically, it focuses on understanding how certain attributes like age or gender are distributed in the dataset.
 
-
 📁 Dataset Used
 The dataset used is: healthcare-dataset-stroke-data.csv
 
